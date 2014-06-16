@@ -1,0 +1,24 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.0",
+  "description": "Example Hello World app for Heroku",
+  "main": "hello.js",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxy1982/Node"
+  },
+  "author": "Dan Fox",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/foxy1982/Node/issues"
+  },
+  "homepage": "https://github.com/foxy1982/Node"
+}
